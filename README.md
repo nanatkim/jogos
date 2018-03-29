@@ -1,2 +1,3 @@
-# jogos
-Joguinhos em Python 3
+# pygames
+
+jogos.py is the main archive for this application and it calls the games itself.
